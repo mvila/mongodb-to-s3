@@ -1,0 +1,14 @@
+{
+  "name": "mongodb-to-s3",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Manuel Vila <hi@mvila.me>",
+  "scripts": {
+    "postinstall": "(cd ./backend && npm install)"
+  },
+  "prettier": "@mvila/prettierrc",
+  "devDependencies": {
+    "@mvila/prettierrc": "^1.1.0",
+    "prettier": "^2.1.2"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "mongodb-to-s3-backend",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Manuel Vila <hi@mvila.me>",
+  "dependencies": {
+    "tslib": "^2.0.3"
+  }
+}

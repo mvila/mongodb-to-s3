@@ -1,0 +1,9 @@
+.DS_Store
+*.log
+node_modules
+dist
+build
+build.zip
+output
+_private
+*.private.*
